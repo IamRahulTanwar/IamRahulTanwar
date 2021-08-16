@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Rahul Tanwar
-- 👀 I’m interested in building new ideas
+- 👀 I like to build new things 
 - 🌱 I’m currently learning Coldfusion
-- 💞️ I’m currently building menjs , express on steriod
+- 💞️ I'm currently working on [Hydyco](https://hydyco.com), find my skills here 
+
+
 
