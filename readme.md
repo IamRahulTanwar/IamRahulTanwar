@@ -22,7 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100"/>
-  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="100"/>
+
 <div/>
 
 ### Github Stats
